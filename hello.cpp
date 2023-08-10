@@ -49,7 +49,7 @@ int main()
     }
     printf("this is main thread %ld,%ld",tid1,tid2);
     //  while(1)
-    //  {
+    //  {cd ..
     //     printf("i am process，num = %d\n",num++);
     //     sleep(1);
 
